@@ -1,5 +1,10 @@
 # Grafos — Labirinto de Creta
 
+Observação: Para rodar o projeto, acesse a pasta do projeto no terminal e digite o comando:
+```bash
+python src/main.py
+```
+
 Simulação do Labirinto de Creta modelada em grafos. O projeto inclui:
 
 - **Regras de Deslocamento:** Movimentação do prisioneiro dentro do labirinto.
@@ -128,6 +133,7 @@ Resultado (FUGA/MORTE), tempo total, caminhos tomados, momento da detecção e e
 
 ## Reprodutibilidade
 * **Rodar com `--seed` fixa:** Comparar os caminhos gerados e o resultado final em múltiplas execuções para garantir consistência e determinismo.
+
 
 
 
